@@ -1,1 +1,1 @@
-# -Mapa-conceptual-de-Ciencia-de-Datos-Jes-s-Eduardo-Rodr-guez-Rivera.
+Fundamentos de ciencia de datos
